@@ -28,7 +28,7 @@ Each cross-license under these terms covers all contributors, past, present, and
 
 ### Sublicensing
 
-Contributors can only sublicense others according to these terms.  On granting any sublicense, the sublicensing contributor must [communicate](#communications) all the terms of the sublicense as well as the identity of the licensee.
+Contributors can only sublicense according to these terms.  Sublicenses may go to specific licensees, classes of licensees, or the public as a whole.  On granting any sublicense, the sublicensing contributor must [communicate](#communications) all the terms of the sublicense as well as the identity of the licensee.
 
 ## Contributors
 
@@ -80,6 +80,10 @@ For a majority, a majority of all responding contributors must approve.  For a s
 
 ### Process
 
+<!-- TODO: net out payment processing fees -->
+
+<!-- TODO: retry, if not responding, redistribute -->
+
 ### Distribution
 
 ## Retry
@@ -91,6 +95,8 @@ When a [communication](#communications) or [payment](#payments) system rejects a
 2.  wait 48 hours, then send again
 
 3.  if the second attempt fails, [communicate](#communications) the final failure and any message from the system
+
+On final failure to respond, the contributor is considered to be not responding for the communication or payment.
 
 ## No Liability
 
