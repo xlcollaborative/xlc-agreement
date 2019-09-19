@@ -6,7 +6,7 @@ These terms enable contributors working together on a project subject to copyrig
 
 ## Acceptance
 
-In order to get any license under these terms, you must be invited to become a contributor and agree to these terms.  Those terms are both strict obligations under an agreement among all contributors and conditions to all the cross-licenses you receive.
+In order to get any license under these terms, you must become a contributor and agree to these terms.  Those terms are both strict obligations under an agreement among all contributors and conditions to all the cross-licenses you receive.
 
 ## Cross-Licenses
 
@@ -18,27 +18,23 @@ Each contributor grants a cross-license covering all copyrights in their contrib
 
 Each contributor grants a cross-license for this project covering any patent claims they can license or become able to license to each other contributor.
 
-### Trademark
-
-Each contributor grants a cross-license covering any trademark rights they have in the software to each other contributor.
-
 ### Scope
 
 Each cross-license under these terms covers all contributors, past, present, and future, and all contributions submitted to the project, past, present, and future.
 
 ### Rights
 
-Cross-licenses under these terms do not gives contributors themselves any special permission to do what copyright, patent, trademark, or other licenses for the project that apply to them prohibit.  Rather, cross-licenses under these terms only enable contributors to sublicense others.
+Cross-licenses under these terms do not give contributors themselves any special permission for the project, only to sublicense.
 
 ### Sublicensing
 
 Any contributor may grant a sublicense for which they have secured [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
 
-1.  the identity of the contributor proposing to grant the sublicense
+1.  identification of the contributor proposing to grant the sublicense
 
 2.  an exact copy of all the proposed sublicense terms
 
-3.  the identities of the sublicense recipient or recipients
+3.  identification of the recipient or recipients of the sublicense
 
 Contributors may sublicense specific license recipients, classes of license recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time of approval going forward, or from a time stated in the terms, not retroactively.
 
@@ -46,7 +42,7 @@ Contributors may sublicense specific license recipients, classes of license reci
 
 ### Qualifications
 
-Only candidates offering to contribute copyrights, patent rights, or trademark rights that would be covered by a cross-license can become contributors.
+Only candidates offering to contribute copyrights or patent rights that would be covered by a cross-license can become contributors.
 
 ### Application
 
@@ -56,9 +52,9 @@ To become a contributor, a candidate must provide the following to an existing c
 
 2.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
 
-### Approval
+### Admission
 
-An existing contributor must secure [majority approval](#majority) in favor of a contributor application.  When [soliciting votes](#soliciting-votes) for a new contributor application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
+To become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for a new contributor application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
 
 ### Resignation
 
@@ -68,25 +64,25 @@ Any contributor may resign as a contributor at any time by [communicating](#comm
 
 ### Equal Information
 
-Each contributor is entitled to an opportunity to receive each message sent under these terms.  Any sublicense that entitles any contributor to receive a message must entitle each contributor to receive that message.
+Each contributor is entitled to an opportunity to receive each message sent under these terms.  Any sublicense that entitles any contributor to receive a message must entitle each contributor to receive that message, too.
 
 ### Sending
 
-To send a communication under these terms, a contributor must send and [retry](#retry) the message to each other contributor.
+To send a communication under these terms, a contributor must send the message to each other contributor, [retrying](#retry) as necessary.
 
 ### Addresses
 
-The first contributor's address for communication must be addresses for delivery via a global, free or low-cost, high-speed, and written communication system, such as e-mail.  Later contributors' addresses must be addresses for delivery via the same system.
+The first and second contributors must agree on a global, free or low-cost, high-speed, and written communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
 
 ### Change of Address
 
-Any contributor may set a new address for communication going forward by [communicating](#communication) the new address from their current address.  Alternatively, any contributor may set a new address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority) in favor of using the new address, without any opposing message from the address to be replaced.
+Any contributor may set a new address for communication going forward by [communicating](#communication) the new address from their current address.  Alternatively, any contributor may set a new address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
 
 ## Voting
 
 ### Equal Vote
 
-Each contributor is entitled to an opportunity to cast a single, equal vote on each proposal under these terms.  Any sublicense that entitles any contributor a vote on any proposal must entitle each contributor an equal vote on that proposal.
+Each contributor is entitled to an opportunity to cast a single, equal vote on each proposal under these terms.  Any sublicense that entitles contributors to vote must entitle all contributors to vote equally.
 
 ### Majority
 
@@ -96,7 +92,7 @@ For majority approval, a majority of all responding contributors must vote in fa
 
 For supermajority approval, two thirds of all responding contributors must vote in favor.
 
-## Counting
+### Counting
 
 The contributor soliciting approval counts as a contributor responding in favor.
 
@@ -120,13 +116,13 @@ To solicit votes, a contributor must communicate:
 
 4.  the [deadline](#deadline) as a specific date
 
-### Voting
+### Casting Votes
 
 Contributors may vote by replying to a solicitation using the same system of communication.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
 
 ### Tallying Votes
 
-To tally votes, the contributor who solicited the votes must ensure that each vote message is communicated to all contributors.  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor communicates their vote themself, the contributor soliciting votes does not have to communicate it again.
+To tally votes, the contributor who solicited the votes must ensure that each vote message is communicated.  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor communicates their vote themself, the contributor soliciting votes does not have to communicate it again.
 
 ### Reporting Results
 
@@ -144,7 +140,7 @@ To report a result, the contributor who solicited the votes must communicate all
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of payment made under these terms.  Any sublicense that entitles any contributor to pay must entitle each contributor to an equal share.
+Each contributor is entitled to an opportunity to receive an equal share of each payment made under these terms.  Any sublicense that entitles any contributor to any payment must require payment to all contributors in equal shares.
 
 ### Accounting
 
@@ -162,19 +158,19 @@ Each contributor is entitled to an opportunity to receive an equal share of paym
 
 ## Retry
 
-When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment as undeliverable, to an unknown address or account, or the like, the sending contributor must:
+When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment, the sending contributor must:
 
-1.  [communicate](#communications) the failure and any message from the system
+1.  [communicate](#communications) the failure and any failure message from the system
 
 2.  wait 48 hours, then send again
 
-3.  if the second attempt fails, [communicate](#communications) the final failure and any message from the system
+3.  if the second attempt fails, [communicate](#communications) the failure and any failure message from the system
 
-On final failure to respond, the contributor is considered to be not responding for the communication or payment.
+On second failure, the contributor is considered to be not responding.
 
 ## Amendments
 
-Any contributor may amend these terms by securing [supermajority approval](#supermajority) of the amended terms.  Amendments may only apply from the time of approval going forward, not retroactively.
+Any contributor may amend these terms by securing [supermajority approval](#supermajority) of amended terms.  Amendments apply from the time of approval going forward, never retroactively.
 
 ## No Liability
 
