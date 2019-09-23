@@ -140,7 +140,7 @@ To report a result, the contributor who solicited the votes must communicate all
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of each payment made under these terms.  Any sublicense that entitles any contributor to any payment must require payment to all contributors in equal shares.
+Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to a payment must require payment to all contributors in equal shares.
 
 ### Direct Payment
 
