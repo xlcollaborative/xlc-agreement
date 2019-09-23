@@ -150,6 +150,10 @@ For direct payment, the one making the payment divides their payment into equal 
 
 For indirect payment, the one making the payment pays their entire payment to a single contributor, who then divides the total into equal shares and pays each other contributor their share directly.
 
+### Payment Instructions
+
+Any contributor may set new instructions for payment going forward by [communicating](#communication) the new instructions from their current [address](#addresses).
+
 ### Process
 
 <!-- TODO: net out payment processing fees -->
