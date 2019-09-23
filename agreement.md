@@ -142,9 +142,13 @@ To report a result, the contributor who solicited the votes must communicate all
 
 Each contributor is entitled to an opportunity to receive an equal share of each payment made under these terms.  Any sublicense that entitles any contributor to any payment must require payment to all contributors in equal shares.
 
-### Accounting
+### Direct Payment
 
-<!-- TODO -->
+For direct payment, the one making the payment divides their payment into equal shares and pays each contributor their share directly.
+
+### Indirect Payment
+
+For indirect payment, the one making the payment pays their entire payment to a single contributor, who then divides the total into equal shares and pays each other contributor their share directly.
 
 ### Process
 
