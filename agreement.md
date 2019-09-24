@@ -156,6 +156,8 @@ Any contributor may set new instructions for payment going forward by [communica
 
 ### Process
 
+<!-- TODO: optional payment-handling fee -->
+
 <!-- TODO: net out payment processing fees -->
 
 <!-- TODO: retry, if not responding, redistribute -->
