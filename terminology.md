@@ -1,26 +1,26 @@
 # Terminology
 
 ## Nouns
-- these terms
-- responding or not responding contributor
-- this project
-- sublicense
-- cross-license
-- candidate
 - address
+- application
+- candidate
+- (responding or not responding) contributor
+- cross-license
+- deadline
 - payment instructions
 - contribution
-- application
 - proposal
+- this project
+- sublicense
+- (communication or payment) system
+- these terms
 - vote in favor or against
-- deadline
-- communication or payment system
 
 ## Verbs
+- communicate a message
 - give a sublicense
+- report a result
+- retry a message or payment
 - secure majority or supermajority approval in favor of
 - solicit votes
 - tally votes
-- report a result
-- communicate a message
-- retry a message or payment
