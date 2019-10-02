@@ -134,11 +134,11 @@ Contributors may vote by replying to a message soliciting votes using the same s
 
 ### Tallying Votes
 
-To tally votes, the contributor who solicited the votes must ensure that each vote message is communicated.  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor communicates their vote themself, the contributor soliciting votes does not have to communicate it again.
+To tally votes, the contributor who solicited votes must ensure that each vote message is communicated.  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor communicates their vote themself, the contributor soliciting votes does not have to communicate it again.
 
 ### Reporting Results
 
-To report a result, the contributor who solicited the votes must communicate all the following within seven calendar days after the [deadline](#deadline):
+To report a result, the contributor who solicited votes must communicate all the following within seven calendar days after the [deadline](#deadline):
 
 1.  all the information required to [solicit votes](#soliciting-votes)
 
