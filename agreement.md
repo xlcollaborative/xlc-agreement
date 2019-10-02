@@ -94,7 +94,7 @@ Any contributor may change their address for communication going forward by [com
 
 ### Equal Vote
 
-Each contributor is entitled to an opportunity to cast a single, equal vote on each proposal under these terms.  Any sublicense that entitles contributors to vote must entitle all contributors to vote equally.
+Each contributor is entitled to an opportunity to cast a single, equal vote on each proposal under these terms.
 
 ### Majority
 
@@ -106,7 +106,7 @@ For supermajority approval, two thirds of all responding contributors must vote 
 
 ### Counting
 
-The contributor soliciting approval counts as a contributor responding in favor.
+The contributor soliciting approval counts as a contributor voting in favor.
 
 ### Deadline
 
