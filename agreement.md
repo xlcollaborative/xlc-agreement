@@ -1,4 +1,4 @@
-# Cross-License Collaborative Agreement
+# Collaborative Cross-License Agreement
 
 Development Draft
 
