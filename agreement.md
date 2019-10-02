@@ -172,7 +172,7 @@ Otherwise, the distributing contributor must try to pay other contributors equal
 
 ### Payment Instructions
 
-Contributors must provide payment instructions for global, low-cost, high-speed, and electronic payment systems.
+Contributors must provide payment instructions for a global, low-cost, high-speed, and electronic payment systems.
 
 ### Change of Payment Instructions
 
