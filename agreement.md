@@ -56,7 +56,7 @@ To become a contributor, a candidate must provide the following to an existing c
 
 1.  an [address](#addresses) for [communication](#communications) 
 
-2.  instructions for [payments](#payments)
+2.  [payment instructions](#payment-instructions)
 
 3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
 
@@ -80,7 +80,7 @@ To send a communication under these terms, a contributor must send the message t
 
 ### Addresses
 
-The first and second contributors must agree on a global, free or low-cost, high-speed, and written communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
+The first and second contributors must agree on a global, free or low-cost, high-speed, and electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
 
 ### Change of Address
 
@@ -152,11 +152,11 @@ Each contributor is entitled to an opportunity to receive an equal share of lice
 
 ### Distributing Payments
 
-Any contributor that receives payment under a sublicense must try to pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their payment instructions, [retrying](#retry) as necessary.
+Any contributor that receives payment under a sublicense must try to pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
 
 ### Payment Processing Fees
 
-If the payment instructions of a contributor require the distributing contributor to pay a fee, the contributor making the payment may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out-of-pocket.
+If the [payment instructions](#payment-instructions) of a contributor require the distributing contributor to pay a fee, the contributor making the payment may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out-of-pocket.
 
 ### Failed Payments
 
@@ -164,21 +164,25 @@ If a contributor does not respond to a payment after it is [retried](#retry), th
 
 If the amount is ten percent or less of the total funds received under the sublicense, or the payment processing fees for distributing the amount would be 50% or more of the amount, then the distributing contributor may keep the amount for themself.
 
-Otherwise, the distributing contributor must try to pay other contributors equal shares of the amount, according to their payment instructions.  The distributing does not have to [retry](#retry) failed those payments.  They can keep failed payments for themself.
+Otherwise, the distributing contributor must try to pay other contributors equal shares of the amount, according to their [payment instructions](#payment-instructions).  The distributing does not have to [retry](#retry) failed those payments.  They can keep failed payments for themself.
+
+### Payment Instructions
+
+Contributors must provide payment instructions for global, low-cost, high-speed, and electronic payment systems.
 
 ### Change of Payment Instructions
 
-Any contributor may change their instructions for payments going forward by [communicating](#communication) the new instructions from their current [address](#addresses).
+Any contributor may change their [payment instructions](#payment-instructions) for payments going forward by [communicating](#communication) the new [payment instructions](#payment-instructions) from their current [address](#addresses).
 
 ## Retry
 
-When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment, the sending contributor must:
+When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment.
 
-1.  [communicate](#communications) the failure and any failure message from the system
+1.  The sending contributor must [communicate](#communications) the failure and any failure message from the system.
 
-2.  wait 48 hours, then send again, using the receiving contributor's [new address](#change-of-address) or [new payment instructions](#change-of-payment-instructions), if they changed after the first failure
+2.  The sending contributor must wait 48 hours, then send again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment instructions) their [payment instructions](#payment-instructions), the sending contributor must honor the change.
 
-3.  if the second try fails, [communicate](#communications) the failure and any failure message from the system
+3.  If the second try fails, the sending contributor must [communicate](#communications) the failure and any failure message from the system.
 
 On second failure, the contributor is considered to be not responding.
 
