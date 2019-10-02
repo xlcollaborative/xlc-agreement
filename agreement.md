@@ -1,5 +1,7 @@
 # Cross-License Collaborative Agreement
 
+Development Draft
+
 ## Purpose
 
 These terms enable contributors working together on a project subject to copyright or patent law to make collective decisions about licensing the project as a whole.
