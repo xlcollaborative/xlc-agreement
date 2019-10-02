@@ -74,7 +74,7 @@ Any contributor may resign at any time by [communicating](#communications) their
 
 Each contributor is entitled to an opportunity to receive each message sent to any other contributor under these terms.
 
-### Sending
+### Sending Messages
 
 To send a communication under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
 
