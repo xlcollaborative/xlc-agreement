@@ -186,7 +186,7 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 2.  The sending contributor must wait 48 hours, then send again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions), the sending contributor must use their new [address](#address) or [payment instructions](#payment-instructions).
 
-3.  If the second try fails, the sending contributor must [communicate](#communications) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
+3.  If the second try also fails, the sending contributor must [communicate](#communications) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
 ## Amendments
 
