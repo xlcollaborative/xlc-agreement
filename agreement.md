@@ -54,7 +54,9 @@ To become a contributor, a candidate must provide the following to an existing c
 
 1.  an [address](#addresses) for [communication](#communications) 
 
-2.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
+2.  instructions for [payments](#payments)
+
+3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
 
 ### Admission
 
@@ -80,7 +82,7 @@ The first and second contributors must agree on a global, free or low-cost, high
 
 ### Change of Address
 
-Any contributor may set a new address for communication going forward by [communicating](#communication) the new address from their current address.  Alternatively, any contributor may set a new address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
+Any contributor may change their address for communication going forward by [communicating](#communication) the new address from their current address.  Alternatively, any contributor may change their address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
 
 ## Voting
 
@@ -144,31 +146,27 @@ To report a result, the contributor who solicited the votes must communicate all
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to a payment must require that contribute to pay out equal shares to all other contributors.
+Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor that granted the sublicense to start, and to to any successor for which any contributor secures [majority approval](#majority).
 
-### Direct Payment
+### Distributing Payments
 
-For direct payment, the one making the payment divides their payment into equal shares and pays each contributor their share directly.
+Any contributor that receives payment under a sublicense must try to pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their payment instructions, [retrying](#retry) as necessary.
 
-### Indirect Payment
+### Payment Processing Fees
 
-For indirect payment, the one making the payment pays their entire payment to a single contributor, who then divides the total into equal shares and pays each other contributor their share directly.
+If the payment instructions of a contributor require the distributing contributor to pay a fee, the contributor making the payment may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out-of-pocket.
 
-### Payment Instructions
+### Failed Payments
 
-Any contributor may set new instructions for payment going forward by [communicating](#communication) the new instructions from their current [address](#addresses).
+If a contributor does not respond to a payment after it is [retried](#retry), the next step depends on the amount of the payment.
 
-### Process
+If the amount is ten percent or less of the total funds received under the sublicense, or the payment processing fees for distributing the amount would be 50% or more of the amount, then the distributing contributor may keep the amount for themself.
 
-<!-- TODO: optional payment-handling fee -->
+Otherwise, the distributing contributor must try to pay other contributors equal shares of the amount, according to their payment instructions.  The distributing does not have to [retry](#retry) failed those payments.  They can keep failed payments for themself.
 
-<!-- TODO: net out payment processing fees -->
+### Change of Payment Instructions
 
-<!-- TODO: retry, if not responding, redistribute -->
-
-### Distribution
-
-<!-- TODO -->
+Any contributor may change their instructions for payments going forward by [communicating](#communication) the new instructions from their current [address](#addresses).
 
 ## Retry
 
@@ -176,9 +174,9 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 1.  [communicate](#communications) the failure and any failure message from the system
 
-2.  wait 48 hours, then send again
+2.  wait 48 hours, then send again, using the receiving contributor's [new address](#change-of-address) or [new payment instructions](#change-of-payment-instructions), if they changed after the first failure
 
-3.  if the second attempt fails, [communicate](#communications) the failure and any failure message from the system
+3.  if the second try fails, [communicate](#communications) the failure and any failure message from the system
 
 On second failure, the contributor is considered to be not responding.
 
