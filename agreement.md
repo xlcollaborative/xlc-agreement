@@ -30,13 +30,15 @@ Cross-licenses under these terms do not give contributors themselves any special
 
 ### Sublicensing
 
-Any contributor may grant a sublicense for which they have secured [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
+Any contributor may grant a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
 
 1.  identification of the contributor proposing to grant the sublicense
-
 2.  an exact copy of all the proposed sublicense terms
-
 3.  identification of the recipient or recipients of the sublicense
+
+<!-- conflict of interest disclosure -->
+
+<!-- commission or lobbying fees -->
 
 Contributors may sublicense specific license recipients, classes of license recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time of approval going forward, or from a time stated in the terms, not retroactively.
 
