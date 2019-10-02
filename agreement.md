@@ -84,7 +84,7 @@ The first and second contributors must agree on a global, free or low-cost, high
 
 ### Change of Address
 
-Any contributor may change their address for communication going forward by [communicating](#communication) the new address from their current address.  Alternatively, any contributor may change their address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
+Any contributor may change their address for communication going forward by [communicating](#communications) the new address from their current address.  Alternatively, any contributor may change their address for communication going forward by [communicating](#communications) the new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
 
 ## Voting
 
@@ -96,7 +96,7 @@ Each contributor is entitled to an opportunity to cast a single, equal vote on e
 
 For majority approval, a majority of all responding contributors must vote in favor.
 
-### Supermajority Vote
+### Supermajority
 
 For supermajority approval, two thirds of all responding contributors must vote in favor.
 
