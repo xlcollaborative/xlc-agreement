@@ -130,7 +130,7 @@ To solicit votes, a contributor must communicate:
 
 ### Casting Votes
 
-Contributors may vote by replying to a message soliciting votes using the same system of communication.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
+Contributors may vote by replying to a message soliciting votes using the same communication system.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
 
 ### Tallying Votes
 
@@ -188,9 +188,9 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 3.  If the second try also fails, the sending contributor must [communicate](#communications) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
-## Amendments
+## Changes
 
-Any contributor may amend these terms by securing [supermajority approval](#supermajority) of amended terms.  Amendments apply from the time of approval going forward, never retroactively.
+Any contributor may change these terms by securing [supermajority approval](#supermajority) in favor of the change.  Changes apply from the time of approval going forward, not retroactively.
 
 ## No Liability
 
