@@ -4,11 +4,11 @@ Development Draft
 
 ## Purpose
 
-These terms enable contributors working together on a project subject to copyright or patent law to make collective decisions about licensing the project as a whole.
+These terms enable contributors working together on a project covered by copyright or patent to make collective decisions about licensing the project as a whole.
 
 ## Acceptance
 
-In order to get any license under these terms, you must become a contributor and agree to these terms.  Those terms are both strict obligations under an agreement among all contributors and conditions to all the cross-licenses you receive.
+In order to get any license under these terms, you must become a contributor and agree to these terms.  These terms are both strict obligations under an agreement among all agreeing contributors and conditions to all the cross-licenses they receive.
 
 ## Cross-Licenses
 
@@ -26,7 +26,7 @@ Each cross-license under these terms covers all contributors, past, present, and
 
 ### Rights
 
-Cross-licenses under these terms do not give contributors themselves any special permission for the project, only to sublicense.
+Cross-licenses under these terms do not give contributors themselves any special permission for the project, only permission to give sublicenses to others.
 
 ### Sublicensing
 
@@ -38,17 +38,17 @@ Any contributor may give a sublicense within thirty calendar days of securing [m
 
 3.  identification of the recipient or recipients of the sublicense
 
-4.  any relationship between the contributor proposing to give the sublicense and the one receiving the license or others that will benefit from the sublicense that might be interpreted as a conflict of interest
+4.  a description of any relationship between the contributor proposing to give the sublicense and those who will receive the sublicense or others that will benefit from the sublicense
 
-5.  an exact copy of all the terms of any agreement that entitles, or could entitle, the contributor proposing to give the sublicense for compensation for proposing or securing approval for the sublicense
+5.  an exact copy of all the terms of any agreement that has, will, or could pay the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
 
-Contributors may sublicense specific license recipients, classes of license recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time of approval going forward, or from a time stated in the terms, not retroactively.
+Contributors may give sublicenses to specific recipients, a categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
 
 ## Contributors
 
 ### Qualifications
 
-Only candidates offering to contribute copyrights or patent rights that would be covered by a cross-license can become contributors.
+Only candidates offering to contribute rights to copyrights or patents to the project that would be covered by a cross-license can become contributors.
 
 ### Application
 
@@ -62,21 +62,25 @@ To become a contributor, a candidate must provide the following to an existing c
 
 ### Admission
 
-To become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for a new contributor application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
+For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
 
 ### Resignation
 
-Any contributor may resign as a contributor at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor terminate, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
+Any contributor may resign at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
 
 ## Communications
 
 ### Equal Information
 
-Each contributor is entitled to an opportunity to receive each message sent under these terms.  Any sublicense that entitles any contributor to receive a message must entitle each contributor to receive that message, too.
+Each contributor is entitled to an opportunity to receive each message sent to any other contributor under these terms.
 
 ### Sending
 
 To send a communication under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
+
+### Distributing Messages
+
+Any contributor that receives a message under a sublicense must [communicate](#communication) that message, [retrying](#retrying) as necessary.
 
 ### Addresses
 
