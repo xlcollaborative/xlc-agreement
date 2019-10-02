@@ -126,7 +126,7 @@ To solicit votes, a contributor must communicate:
 
 3.  the voting standard required
 
-4.  the [deadline](#deadline) as a specific date
+4.  the [deadline](#deadline)
 
 ### Casting Votes
 
