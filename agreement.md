@@ -180,7 +180,7 @@ Any contributor may change their [payment instructions](#payment-instructions) f
 
 ## Retry
 
-When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment.
+When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment:
 
 1.  The sending contributor must [communicate](#communications) the failure and any failure message from the system.
 
