@@ -168,7 +168,7 @@ If a contributor does not respond to a payment, the next step depends on the amo
 
 If the amount is ten percent or less of the total funds received under the sublicense, or the payment processing fees for distributing the amount would be 50% or more of the amount, then the distributing contributor may keep the amount for themself.
 
-Otherwise, the distributing contributor must try to pay other contributors equal shares of the amount, according to their [payment instructions](#payment-instructions).  The distributing does not have to [retry](#retry) failed those payments.  They can keep failed payments for themself.
+Otherwise, the distributing contributor must try to pay other contributors equal shares of the amount, according to their [payment instructions](#payment-instructions).  The distributing contributor does not have to [retry](#retry) failed those payments.  They can keep failed payments for themself.
 
 ### Payment Instructions
 
