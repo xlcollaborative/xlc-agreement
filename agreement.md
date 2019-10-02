@@ -76,7 +76,7 @@ Each contributor is entitled to an opportunity to receive each message sent unde
 
 ### Sending
 
-To send a communication under these terms, a contributor must send the message to each other contributor, [retrying](#retry) as necessary.
+To send a communication under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
 
 ### Addresses
 
