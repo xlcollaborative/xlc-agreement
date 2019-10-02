@@ -140,13 +140,15 @@ To tally votes, the contributor who solicited the votes must ensure that each vo
 
 To report a result, the contributor who solicited the votes must communicate all the following within seven calendar days after the [deadline](#deadline):
 
-1.  all the information required to [solicit votes](#soliciting-votes)
+1.  the identity of the project
 
-2.  copies of all [vote messages](#voting)
+2.  all the information required to [solicit votes](#soliciting-votes)
 
-3.  counts of votes in favor, votes against, and contributors not responding within the [deadline](#deadline)
+3.  copies of all [vote messages](#voting)
 
-4.  whether contributors approved the proposal or not
+4.  counts of votes in favor, votes against, and contributors not responding within the [deadline](#deadline)
+
+5.  whether contributors approved the proposal or not
 
 ## Payments
 
