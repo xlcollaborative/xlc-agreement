@@ -84,7 +84,7 @@ Any contributor who receives a message under a sublicense must [communicate](#co
 
 ### Addresses
 
-The first and second contributors must agree on a global, free or low-cost, high-speed, and electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
+The first and second contributors must agree on a global, free or low-cost, high-speed, electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
 
 ### Change of Address
 
@@ -172,7 +172,7 @@ Otherwise, the distributing contributor must try to pay other contributors equal
 
 ### Payment Instructions
 
-Contributors must provide payment instructions for global, low-cost, high-speed, and electronic payment systems.
+Contributors must provide payment instructions for global, low-cost, high-speed, electronic payment systems.
 
 ### Change of Payment Instructions
 
