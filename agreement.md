@@ -164,7 +164,7 @@ If a contributor's [payment instructions](#payment-instructions) require the dis
 
 ### Failed Payments
 
-If a contributor does not respond to a payment after it is [retried](#retry), the next step depends on the amount of the payment.
+If a contributor does not respond to a payment, the next step depends on the amount of the payment.
 
 If the amount is ten percent or less of the total funds received under the sublicense, or the payment processing fees for distributing the amount would be 50% or more of the amount, then the distributing contributor may keep the amount for themself.
 
