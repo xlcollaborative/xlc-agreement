@@ -130,7 +130,7 @@ To solicit votes, a contributor must communicate:
 
 ### Casting Votes
 
-Contributors may vote by replying to a solicitation using the same system of communication.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
+Contributors may vote by replying to a message soliciting votes using the same system of communication.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
 
 ### Tallying Votes
 
