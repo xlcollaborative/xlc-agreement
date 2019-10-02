@@ -144,7 +144,7 @@ To report a result, the contributor who solicited votes must communicate all the
 
 2.  copies of all [vote messages](#voting)
 
-3.  counts of votes in favor, votes against, and contributors not responding within the [deadline](#deadline)
+3.  counts of votes in favor, votes against, and contributors not responding by the [deadline](#deadline)
 
 4.  whether contributors approved the proposal or not
 
