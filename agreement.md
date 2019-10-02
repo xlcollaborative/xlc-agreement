@@ -38,7 +38,7 @@ Any contributor may give a sublicense within thirty calendar days of securing [m
 
 3.  identification of the recipient or recipients of the sublicense
 
-4.  a description of any relationship between the contributor proposing to give the sublicense and those who will receive the sublicense or others that will benefit from the sublicense
+4.  a description of any relationship between the contributor proposing to give the sublicense and those who will receive the sublicense or others who will benefit from the sublicense
 
 5.  an exact copy of all the terms of any agreement that has, will, or could pay the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
 
@@ -80,7 +80,7 @@ To send a communication under these terms, a contributor must send the message i
 
 ### Distributing Messages
 
-Any contributor that receives a message under a sublicense must [communicate](#communication) that message, [retrying](#retrying) as necessary.
+Any contributor who receives a message under a sublicense must [communicate](#communication) that message, [retrying](#retrying) as necessary.
 
 ### Addresses
 
@@ -152,11 +152,11 @@ To report a result, the contributor who solicited votes must communicate all the
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor that gave the sublicense to start, and to to any successor for which any contributor secures [majority approval](#majority).
+Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to to any successor for which any contributor secures [majority approval](#majority).
 
 ### Distributing Payments
 
-Any contributor that receives payment under a sublicense must try to pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
+Any contributor who receives payment under a sublicense must try to pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
 
 ### Payment Processing Fees
 
