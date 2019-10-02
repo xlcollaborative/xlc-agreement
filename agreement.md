@@ -14,11 +14,11 @@ In order to get any license under these terms, you must become a contributor and
 
 ### Copyright
 
-Each contributor grants a cross-license covering all copyrights in their contributions to this project to each other contributor.
+Each contributor gives a cross-license covering all copyrights in their contributions to this project to each other contributor.
 
 ### Patent
 
-Each contributor grants a cross-license for this project covering any patent claims they can license or become able to license to each other contributor.
+Each contributor gives a cross-license for this project covering any patent claims they can license or become able to license to each other contributor.
 
 ### Scope
 
@@ -30,17 +30,17 @@ Cross-licenses under these terms do not give contributors themselves any special
 
 ### Sublicensing
 
-Any contributor may grant a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
+Any contributor may give a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
 
-1.  identification of the contributor proposing to grant the sublicense
+1.  identification of the contributor proposing to give the sublicense
 
 2.  an exact copy of all the proposed sublicense terms
 
 3.  identification of the recipient or recipients of the sublicense
 
-4.  any relationship between the contributor proposing to grant the sublicense and the one receiving the license or others that will benefit from the sublicense that might be interpreted as a conflict of interest
+4.  any relationship between the contributor proposing to give the sublicense and the one receiving the license or others that will benefit from the sublicense that might be interpreted as a conflict of interest
 
-5.  an exact copy of all the terms of any agreement that entitles, or could entitle, the contributor proposing to grant the sublicense for compensation for proposing or securing approval for the sublicense
+5.  an exact copy of all the terms of any agreement that entitles, or could entitle, the contributor proposing to give the sublicense for compensation for proposing or securing approval for the sublicense
 
 Contributors may sublicense specific license recipients, classes of license recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time of approval going forward, or from a time stated in the terms, not retroactively.
 
@@ -66,7 +66,7 @@ To become a contributor, an existing contributor must secure [majority approval]
 
 ### Resignation
 
-Any contributor may resign as a contributor at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor terminate, but their cross-licenses to other contributors, as well as any sublicenses they granted, continue.
+Any contributor may resign as a contributor at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor terminate, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
 
 ## Communications
 
@@ -148,7 +148,7 @@ To report a result, the contributor who solicited the votes must communicate all
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor that granted the sublicense to start, and to to any successor for which any contributor secures [majority approval](#majority).
+Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor that gave the sublicense to start, and to to any successor for which any contributor secures [majority approval](#majority).
 
 ### Distributing Payments
 
