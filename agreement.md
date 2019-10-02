@@ -104,7 +104,7 @@ The contributor soliciting approval counts as a contributor responding in favor.
 
 The deadline for approval of any proposal is thirty calendar days from when [votes were first solicited](#soliciting-votes).
 
-### Voting Process
+### Securing Approval
 
 To secure an approval, a contributor must [solicit votes](#soliciting-votes), then [tally votes](#tallying-votes), and finally [report the result](#reporting-results).
 
