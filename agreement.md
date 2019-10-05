@@ -20,11 +20,11 @@ Only candidates offering contributions of copyrights or patent rights to the pro
 
 To apply to become a contributor, a candidate must provide the following to an existing contributor:
 
-1.  an [address](#addresses) for [communication](#communications) 
+1.  their [address](#addresses) for [communication](#communications) 
 
-2.  [payment instructions](#payment-instructions)
+2.  their [instructions](#payment-instructions) for [payment](#payments)
 
-3.  a World Wide Web or other Internet address where contributors can review the contribution the candidate is offering
+3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
 
 ### Admission
 
