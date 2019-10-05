@@ -78,9 +78,9 @@ Each contributor is entitled to an opportunity to receive each message sent to a
 
 To circulate a message under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
 
-### Distributing Messages
+### Circulating Notices
 
-Any contributor who receives a message under a sublicense must [circulate](#circulating-messages) that message, [retrying](#retrying) as necessary.
+Any contributor who receives a notice under a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
 
 ### Addresses
 
