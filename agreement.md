@@ -32,7 +32,7 @@ For a candidate to become a contributor, an existing contributor must secure [ma
 
 ### Resignation
 
-Any contributor may resign at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
+Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
 
 ## Cross-Licenses
 
