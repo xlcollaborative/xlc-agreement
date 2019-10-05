@@ -28,7 +28,7 @@ To become a contributor, a candidate must provide the following to an existing c
 
 ### Admission
 
-For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
+For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the candidate's [application](#application).
 
 ### Resignation
 
