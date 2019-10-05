@@ -176,7 +176,7 @@ Contributors must provide payment instructions for global, low-cost, high-speed,
 
 ### Change of Payment Instructions
 
-Any contributor may change their [payment instructions](#payment-instructions) for payments going forward by [circulating](#circulating-messages) the new [payment instructions](#payment-instructions) from their current [address](#addresses).
+Any contributor may change their [payment instructions](#payment-instructions) by [circulating](#circulating-messages) the new [payment instructions](#payment-instructions) from their current [address](#addresses).
 
 ## Retry
 
