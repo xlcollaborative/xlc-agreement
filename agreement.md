@@ -98,11 +98,11 @@ Each contributor is entitled to an opportunity to cast a single, equal vote on e
 
 ### Majority
 
-For majority approval, a majority of all responding contributors must vote in favor.
+For majority approval, a majority of responding contributors must vote in favor.
 
 ### Supermajority
 
-For supermajority approval, two thirds of all responding contributors must vote in favor.
+For supermajority approval, two thirds of responding contributors must vote in favor.
 
 ### Counting
 
