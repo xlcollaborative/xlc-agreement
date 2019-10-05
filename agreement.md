@@ -10,6 +10,30 @@ These terms enable contributors working together on a project covered by copyrig
 
 In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross-licenses they give and receive.
 
+## Contributors
+
+### Qualifications
+
+Only candidates offering to contribute rights to copyrights or patents to the project that would be covered by a cross-license can become contributors.
+
+### Application
+
+To become a contributor, a candidate must provide the following to an existing contributor:
+
+1.  an [address](#addresses) for [communication](#communications) 
+
+2.  [payment instructions](#payment-instructions)
+
+3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
+
+### Admission
+
+For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
+
+### Resignation
+
+Any contributor may resign at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
+
 ## Cross-Licenses
 
 ### Copyright
@@ -43,30 +67,6 @@ Any contributor may give a sublicense within thirty calendar days of securing [m
 5.  an exact copy of all the terms of any agreement that has, will, or could pay the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
 
 Contributors may give sublicenses to specific recipients, a categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
-
-## Contributors
-
-### Qualifications
-
-Only candidates offering to contribute rights to copyrights or patents to the project that would be covered by a cross-license can become contributors.
-
-### Application
-
-To become a contributor, a candidate must provide the following to an existing contributor:
-
-1.  an [address](#addresses) for [communication](#communications) 
-
-2.  [payment instructions](#payment-instructions)
-
-3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
-
-### Admission
-
-For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the addresses [provided by the candidate](#application).
-
-### Resignation
-
-Any contributor may resign at any time by [communicating](#communications) their resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
 
 ## Communications
 
