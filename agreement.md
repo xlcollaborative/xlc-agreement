@@ -24,7 +24,7 @@ To apply to become a contributor, a candidate must provide the following to an e
 
 2.  [payment instructions](#payment-instructions)
 
-3.  a World Wide Web or other Internet address where contributors can review the contribution offered
+3.  a World Wide Web or other Internet address where contributors can review the contribution the candidate is offering
 
 ### Admission
 
