@@ -88,7 +88,7 @@ The first and second contributors must agree on a global, free or low-cost, high
 
 ### Change of Address
 
-Any contributor may change their address for communication going forward by [communicating](#communications) their new address from their current address.  Alternatively, any contributor may change their address for communication going forward by [communicating](#communications) their new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
+Any contributor may change their address for communication going forward by [circulating](#circulating-messages) their new address from their current address.  Alternatively, any contributor may change their address for communication going forward by [circulating](#circulating-messages) their new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
 
 ## Voting
 
@@ -176,17 +176,17 @@ Contributors must provide payment instructions for global, low-cost, high-speed,
 
 ### Change of Payment Instructions
 
-Any contributor may change their [payment instructions](#payment-instructions) for payments going forward by [communicating](#communication) the new [payment instructions](#payment-instructions) from their current [address](#addresses).
+Any contributor may change their [payment instructions](#payment-instructions) for payments going forward by [circulating](#circulating-messages) the new [payment instructions](#payment-instructions) from their current [address](#addresses).
 
 ## Retry
 
 When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment:
 
-1.  The sending contributor must [circulate](#circulating-messages) the failure and any failure message from the system.
+1.  The sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.
 
-2.  The sending contributor must wait 48 hours, then send again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions), the sending contributor must use their new [address](#address) or [payment instructions](#payment-instructions).
+2.  The sending contributor must wait 48 hours, then try again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions) since the first try, the sending contributor must use the new [address](#address) or [payment instructions](#payment-instructions).
 
-3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
+3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
 ## Changes
 
