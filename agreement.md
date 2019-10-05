@@ -1,6 +1,6 @@
 # Cross-License Collaborative Agreement
 
-Development Draft
+Version 1.0.0-pre.1
 
 ## Purpose
 
