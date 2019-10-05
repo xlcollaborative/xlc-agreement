@@ -62,7 +62,7 @@ Any contributor may give a sublicense within thirty calendar days of securing [m
 
 3.  identification of the recipient or recipients of the sublicense
 
-4.  a description of any relationship between the contributor proposing to give the sublicense and those who will receive the sublicense or others who will benefit from the sublicense
+4.  a description of any relationship between with those who will receive or benefit from the sublicense
 
 5.  an exact copy of all the terms of any agreement that has, will, or could pay the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
 
