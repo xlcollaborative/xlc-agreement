@@ -11,6 +11,7 @@
 - contribution
 - proposal
 - the project
+- equal share
 - sublicense
 - (communication or payment) system
 - these terms
