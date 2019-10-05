@@ -38,11 +38,11 @@ Any contributor may resign at any time by [circulating](#circulating-messages) a
 
 ### Copyright
 
-Each contributor gives a cross-license covering all copyrights in their contributions to this project to each other contributor.
+Each contributor gives a cross-license covering all copyrights in their contributions to the project to each other contributor.
 
 ### Patent
 
-Each contributor gives a cross-license for this project covering any patent claims they can license or become able to license to each other contributor.
+Each contributor gives a cross-license for the project covering any patent claims they can license or become able to license to each other contributor.
 
 ### Scope
 
@@ -194,4 +194,4 @@ Any contributor may change these terms by securing [supermajority approval](#sup
 
 ## No Liability
 
-***As far as the law allows, this project comes as is, without any warranty or condition, and no contributor will be liable to any other contributor for any damages related to this project or these terms, under any kind of legal claim.***
+***As far as the law allows, the project comes as is, without any warranty or condition, and no contributor will be liable to any other contributor for any damages related to the project or these terms, under any kind of legal claim.***

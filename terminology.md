@@ -10,7 +10,7 @@
 - payment instructions
 - contribution
 - proposal
-- this project
+- the project
 - sublicense
 - (communication or payment) system
 - these terms
