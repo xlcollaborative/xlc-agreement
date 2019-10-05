@@ -28,7 +28,7 @@ To apply to become a contributor, a candidate must provide the following to an e
 
 ### Admission
 
-For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's [application](#application).
+For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of their application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's complete [application](#application).
 
 ### Resignation
 
