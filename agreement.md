@@ -118,7 +118,7 @@ To secure an approval, a contributor must [solicit votes](#soliciting-votes), th
 
 ### Soliciting Votes
 
-To solicit votes, a contributor must [circulate](#circulating-messages):
+To solicit votes, a contributor must [circulate](#circulating-messages) a single message with all of these details:
 
 1.  the identity of the project
 
@@ -138,7 +138,7 @@ To tally votes, the contributor who solicited votes must ensure that each vote m
 
 ### Reporting Results
 
-To report a result, the contributor who solicited votes must [circulate](#circulating-messages) all the following within seven calendar days after the [deadline](#deadline):
+To report a result, the contributor who solicited votes must [circulate](#circulating-messages) a single message with all of these details within seven calendar days after the [deadline](#deadline):
 
 1.  all the information required to [solicit votes](#soliciting-votes)
 
