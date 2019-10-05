@@ -18,7 +18,7 @@ Only candidates offering contributions of copyrights or patent rights to the pro
 
 ### Application
 
-To become a contributor, a candidate must provide the following to an existing contributor:
+To apply to become a contributor, a candidate must provide the following to an existing contributor:
 
 1.  an [address](#addresses) for [communication](#communications) 
 
