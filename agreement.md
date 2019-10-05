@@ -152,7 +152,7 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor secures [majority approval](#majority).
+Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor secures [majority approval](#majority) after.
 
 ### Distributing Payments
 
