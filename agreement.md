@@ -14,7 +14,7 @@ In order to get any license under these terms, you must apply to become a contri
 
 ### Qualifications
 
-Only candidates offering to contribute rights to copyrights or patents to the project that would be covered by a cross-license can become contributors.
+Only candidates offering contributions of copyrights or patent rights to the project that would be covered by a cross-license can apply to become contributors.
 
 ### Application
 
