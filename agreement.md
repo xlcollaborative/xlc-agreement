@@ -28,7 +28,7 @@ To apply to become a contributor, a candidate must provide the following to an e
 
 ### Admission
 
-For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [communicate](#communications) the candidate's [application](#application).
+For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of a candidate's application.  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's [application](#application).
 
 ### Resignation
 
@@ -54,7 +54,7 @@ Cross-licenses under these terms do not give contributors themselves any special
 
 ### Sublicensing
 
-Any contributor may give a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [communicate](#communications):
+Any contributor may give a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [circulate](#circulating-messages):
 
 1.  identification of the contributor proposing to give the sublicense
 
@@ -74,13 +74,13 @@ Contributors may give sublicenses to specific recipients, a categories of recipi
 
 Each contributor is entitled to an opportunity to receive each message sent to any other contributor under these terms.
 
-### Sending Messages
+### Circulating Messages
 
-To send a communication under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
+To circulate a message under these terms, a contributor must send the message in the English language to each other contributor, [retrying](#retry) as necessary.
 
 ### Distributing Messages
 
-Any contributor who receives a message under a sublicense must [communicate](#communication) that message, [retrying](#retrying) as necessary.
+Any contributor who receives a message under a sublicense must [circulate](#circulating-messages) that message, [retrying](#retrying) as necessary.
 
 ### Addresses
 
@@ -118,7 +118,7 @@ To secure an approval, a contributor must [solicit votes](#soliciting-votes), th
 
 ### Soliciting Votes
 
-To solicit votes, a contributor must communicate:
+To solicit votes, a contributor must [circulate](#circulating-messages):
 
 1.  the identity of the project
 
@@ -134,11 +134,11 @@ Contributors may vote by replying to a message soliciting votes using the same c
 
 ### Tallying Votes
 
-To tally votes, the contributor who solicited votes must ensure that each vote message is communicated.  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor communicates their vote themself, the contributor soliciting votes does not have to communicate it again.
+To tally votes, the contributor who solicited votes must ensure that each vote message is [circulated](#circulating-messages).  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor [circulates](#circulating-messages) their vote themself, the contributor soliciting votes does not have to [circulate](#circulating-messages) it again.
 
 ### Reporting Results
 
-To report a result, the contributor who solicited votes must communicate all the following within seven calendar days after the [deadline](#deadline):
+To report a result, the contributor who solicited votes must [circulate](#circulating-messages) all the following within seven calendar days after the [deadline](#deadline):
 
 1.  all the information required to [solicit votes](#soliciting-votes)
 
@@ -182,11 +182,11 @@ Any contributor may change their [payment instructions](#payment-instructions) f
 
 When a [communication](#communications) or [payment](#payments) system fails to deliver a message or payment:
 
-1.  The sending contributor must [communicate](#communications) the failure and any failure message from the system.
+1.  The sending contributor must [circulate](#circulating-messages) the failure and any failure message from the system.
 
 2.  The sending contributor must wait 48 hours, then send again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions), the sending contributor must use their new [address](#address) or [payment instructions](#payment-instructions).
 
-3.  If the second try also fails, the sending contributor must [communicate](#communications) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
+3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
 ## Changes
 
