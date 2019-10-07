@@ -80,7 +80,7 @@ To circulate a message under these terms, a contributor must send the message in
 
 ### Circulating Notices
 
-Any contributor who receives a notice under a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
+Any contributor who receives a notice message under the terms of a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
 
 ### Addresses
 
