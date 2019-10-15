@@ -72,7 +72,7 @@ Contributors may give sublicenses to specific recipients, a categories of recipi
 
 ### Equal Information
 
-Each contributor is entitled to an opportunity to receive each message sent to any other contributor under these terms.
+Each contributor is entitled to receive each message sent to any other contributor under these terms.
 
 ### Circulating Messages
 
@@ -94,7 +94,7 @@ Any contributor may change their address by [circulating](#circulating-messages)
 
 ### Equal Vote
 
-Each contributor is entitled to an opportunity to cast a single, equal vote on each proposal under these terms.
+Each contributor is entitled to cast a single, equal vote on each proposal under these terms.
 
 ### Majority
 
@@ -152,7 +152,7 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 ### Equal Pay
 
-Each contributor is entitled to an opportunity to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor secures [majority approval](#majority) after.
+Each contributor is entitled to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor secures [majority approval](#majority) after.
 
 ### Distributing Payments
 
