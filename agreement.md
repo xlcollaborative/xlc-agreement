@@ -160,7 +160,7 @@ Any contributor who receives payment under a sublicense must pay other contribut
 
 ### Payment Processing Fees
 
-If a contributor's [payment instructions](#payment-instructions) require the distributing contributor to pay a fee, the contributor making the payment may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out of pocket.
+If a contributor's [payment instructions](#payment-instructions) require the distributing contributor to pay a fee, the distributing contributor making the payment may reduce the amount of the payment by the amount of the fee, so the distributing contributor does not have to pay any processing fees out of pocket.
 
 ### Failed Payments
 
