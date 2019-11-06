@@ -124,7 +124,7 @@ To solicit votes, a contributor must [circulate](#circulating-messages) a single
 
 2.  the complete text of the proposal
 
-3.  the voting standard required
+3.  whether [majority approval](#majority) or [supermajority approval](#supermajority) is required
 
 4.  the date of the [deadline](#deadline)
 
