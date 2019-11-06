@@ -88,7 +88,7 @@ The first and second contributors must agree on a global, free or low-cost, high
 
 ### Change of Address
 
-Any contributor may change their address by [circulating](#circulating-messages) their new address from their current address.  Alternatively, any contributor may change their address by [circulating](#circulating-messages) their new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from the address to be replaced.
+Any contributor may change their address by [circulating](#circulating-messages) their new address from their current address.  Alternatively, any contributor may change their address by [circulating](#circulating-messages) their new address from a different address and securing [supermajority approval](#supermajority) without any opposing message from the address to be replaced.
 
 ## Voting
 
