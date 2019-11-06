@@ -166,7 +166,7 @@ If a contributor's [payment instructions](#payment-instructions) require the dis
 
 If a contributor does not respond to a payment of their share, the next step depends on the amount of their share.
 
-If the amount is ten percent or less of the payment under the sublicense, or the payment processing fees would be 50% or more of the amount, then the distributing contributor may keep the amount for themself.
+If the amount is ten percent or less of the payment under the sublicense being distributed, or the payment processing fees would be 50% or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
 
 Otherwise, the distributing contributor must try to pay themself and other contributors, but not the contributor that is not responding, equal shares of the amount, according to their [payment instructions](#payment-instructions).  If those payments fail, the distributing contributor does not have to [retry](#retry) them, but can keep the amounts for themself.
 
