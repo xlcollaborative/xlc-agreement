@@ -66,7 +66,7 @@ Any contributor may give a sublicense within thirty calendar days of securing [m
 
 5.  an exact copy of all the terms of any agreement that has, will, or could pay the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
 
-Contributors may give sublicenses to specific recipients, a categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
+Contributors may give sublicenses to specific recipients, categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
 
 ## Communications
 
