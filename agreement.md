@@ -28,7 +28,7 @@ To apply to become a contributor, a candidate must send the following to an exis
 
 ### Admission
 
-For a candidate to become a contributor, an existing contributor must secure [majority approval](#majority) in favor of their application and [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions).  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's complete [application](#application).
+For a candidate to become a contributor, an existing contributor must get [majority approval](#majority) in favor of their application and [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions).  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's complete [application](#application).
 
 ### Resignation
 
@@ -114,7 +114,7 @@ The deadline for approval of any proposal is thirty calendar days from when [vot
 
 ### Securing Approval
 
-To secure an approval, a contributor must [solicit votes](#soliciting-votes), then [tally votes](#tallying-votes), and finally [report the result](#reporting-results).
+To get an approval, a contributor must [solicit votes](#soliciting-votes), then [tally votes](#tallying-votes), and finally [report the result](#reporting-results).
 
 ### Soliciting Votes
 
@@ -152,7 +152,7 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 ### Equal Pay
 
-Each contributor is entitled to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor secures [majority approval](#majority).
+Each contributor is entitled to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and to any successor for which any contributor gets [majority approval](#majority).
 
 ### Distributing Payments
 
