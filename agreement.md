@@ -24,7 +24,7 @@ To apply to become a contributor, a candidate must send the following to an exis
 
 2.  their [instructions](#payment-instructions) for [payment](#payments)
 
-3.  a World Wide Web or other Internet address where contributors can review the contribution they are offering
+3.  a World Wide Web or other Internet address where contributors can review the first contribution they are offering
 
 ### Admission
 
