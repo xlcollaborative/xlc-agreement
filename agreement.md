@@ -2,6 +2,8 @@
 
 Development Draft
 
+<https://github.com/xlcollaborative/xlc-agreement>
+
 ## Purpose
 
 These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about licensing their project as a whole.
