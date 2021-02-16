@@ -1,4 +1,4 @@
-# Cross-License Collaborative Agreement
+# Cross License Collaborative Agreement
 
 Development Draft
 
@@ -10,7 +10,7 @@ These terms enable contributors working together on a project covered by copyrig
 
 ## Acceptance
 
-In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross-licenses they give and receive under that agreement.
+In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross licenses they give and receive under that agreement.
 
 ## Contributors
 
@@ -34,25 +34,25 @@ For a candidate to become a contributor, an existing contributor must get [major
 
 ### Resignation
 
-Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross-licenses to that contributor end, but their cross-licenses to other contributors, as well as any sublicenses they have given, continue.
+Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross licenses to that contributor end, but their cross licenses to other contributors, as well as any sublicenses they have given, continue.
 
-## Cross-Licenses
+## Cross Licenses
 
 ### Copyright
 
-Each contributor gives a cross-license covering all copyrights in their contributions to the project to each other contributor.
+Each contributor gives a cross license covering all copyrights in their contributions to the project to each other contributor.
 
 ### Patent
 
-Each contributor gives a cross-license for the project covering any patent claims they can license or become able to license to each other contributor.
+Each contributor gives a cross license for the project covering any patent claims they can license or become able to license to each other contributor.
 
 ### Scope
 
-Each cross-license under these terms covers all contributors, past, present, and future, and all contributions submitted to the project, past, present, and future.
+Each cross license under these terms covers all contributors, past, present, and future, and all contributions submitted to the project, past, present, and future.
 
 ### Rights
 
-Cross-licenses under these terms do not give contributors themselves any special permission for the project, only permission to give sublicenses to others.
+Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to give sublicenses to others.
 
 ### Sublicensing
 
