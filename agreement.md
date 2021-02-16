@@ -158,7 +158,7 @@ Each contributor is entitled to receive an equal share of license fees for the p
 
 ### Distributing Payments
 
-Any contributor who receives payment under a sublicense must pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to their [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
+Any contributor who receives payment under a sublicense must pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to the other contributors' [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
 
 ### Payment Processing Fees
 
