@@ -196,4 +196,4 @@ Any contributor may change these terms by securing [supermajority approval](#sup
 
 ## No Liability
 
-***As far as the law allows, the project comes as is, without any warranty or condition, and no contributor will be liable to any other contributor for any damages related to the project or these terms, under any kind of legal claim.***
+***As far as the law allows, the project comes as is, without any warranty or condition, and no contributor will be liable to any other contributor for any damages related to the use or quality of the project, under any kind of legal claim.***
