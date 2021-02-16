@@ -168,7 +168,7 @@ If a contributor's [payment instructions](#payment-instructions) require the dis
 
 If a contributor does not respond to a payment of their share, the next step depends on the amount of their share.
 
-If the amount is ten percent or less of the payment under the sublicense being distributed, or the payment processing fees would be 50% or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
+If the amount is ten percent or less of the payment under the sublicense being distributed, or the payment processing fees would be fifty percent or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
 
 Otherwise, the distributing contributor must try to pay themself and other contributors, but not the contributor that is not responding, equal shares of the amount, according to their [payment instructions](#payment-instructions).  If those payments fail, the distributing contributor does not have to [retry](#retry) them, but can keep the amounts for themself.
 
@@ -186,7 +186,7 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 1.  The sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.
 
-2.  The sending contributor must wait 48 hours, then try again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions) since the first try, the sending contributor must use the new [address](#address) or [payment instructions](#payment-instructions).
+2.  The sending contributor must wait forty-eight hours, then try again.  If the receiving contributor [changed](#change-of-address) their [address](#address) or [changed](#change-of-payment-instructions) their [payment instructions](#payment-instructions) since the first try, the sending contributor must use the new [address](#address) or [payment instructions](#payment-instructions).
 
 3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
