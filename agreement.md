@@ -200,6 +200,10 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 3.  If the second try also fails, the sending contributor must [circulate](#circulating-messages) word of the failure and any failure message from the system.  The receiving contributor is then considered to be not responding.
 
+## Broken Rules
+
+If any contributor unintentionally breaks a rule of these terms at the expense of another contributor, and the contributor who was wronged [circulates](#circulating-messages) a message about the breach, other contributors can keep their cross licenses from the contributor who was wronged if any one or more of them makes the situation right within fourteen calendar days.  If the contributor did not get an [equal vote](#equal-vote), contributors must retake the vote.  If the contributor did not get [equal pay](#equal-pay), contributors must pay what was owed, and if the payment is thirty days or more late, interest at the base rate for the national bank of the country where the contributor lives, compounded monthly.  If the contributor did not get [equal information](#equal-information), contributors must [circulate](#cirulating-messages) the message again, and if any vote was taken between when the message was not sent and when the contributor finally received it, contributors must retake that vote.
+
 ## Changes
 
 Any contributor may change these terms by securing [supermajority approval](#supermajority) in favor of the change.  Changes apply from the time of approval going forward, not retroactively.
