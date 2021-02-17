@@ -30,7 +30,17 @@ To apply to become a contributor, a candidate must send the following to an exis
 
 ### Admission
 
-For a candidate to become a contributor, an existing contributor must get [majority approval](#majority) in favor of their application and [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions).  When [soliciting votes](#soliciting-votes) for an application, the soliciting contributor must [circulate](#circulating-messages) the candidate's complete [application](#application).
+For a candidate to become a contributor, an existing contributor must follow each of these steps, one after another, in order:
+
+1.  [circulate](#circulating-messages) the candidate's complete application
+
+2.  secure [majority approval](#majority) in favor of their application
+
+3.  provide the candidate complete copies of all sublicenses still in effect
+
+4.  receive and [circulate](#circulating-messages) a message from the candidate confirming receipt of, and approving, all sublicenses still in effect
+
+5.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions), including the new contributor's
 
 ### Resignation
 
@@ -82,15 +92,15 @@ To circulate a message under these terms, a contributor must send the message in
 
 ### Circulating Notices
 
-Any contributor who receives a notice from a recipient of a sublicense under the terms of a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
+Any contributor who receives a notice under the terms of a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
 
 ### Addresses
 
-The first and second contributors must agree on a global, free or low-cost, high-speed, electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
+The first two contributors must agree on a global, free or low-cost, high-speed, electronic communication system, such as e-mail, and provide addresses for that system.  Later contributors must provide addresses for the same system.
 
 ### Change of Address
 
-Any contributor may change their address by [circulating](#circulating-messages) their new address from their current address.  Alternatively, any contributor may change their address by [circulating](#circulating-messages) their new address from a different address and securing [supermajority approval](#supermajority) without any opposing message from the address to be replaced.
+Any contributor may change their address by [circulating](#circulating-messages) their new address from their current address.  Alternatively, any contributor may change their address by [circulating](#circulating-messages) their new address from a different address and securing [supermajority approval](#supermajority), without any opposing message from their old address.
 
 ## Voting
 
@@ -116,7 +126,7 @@ The deadline for approval of any proposal is thirty calendar days from when [vot
 
 ### Securing Approval
 
-To get an approval, a contributor must [solicit votes](#soliciting-votes), then [tally votes](#tallying-votes), and finally [report the result](#reporting-results).
+To secure an approval, a contributor must [solicit votes](#soliciting-votes), then [tally votes](#tallying-votes), and finally [report the result](#reporting-results).
 
 ### Soliciting Votes
 
@@ -126,17 +136,17 @@ To solicit votes, a contributor must [circulate](#circulating-messages) a single
 
 2.  the complete text of the proposal
 
-3.  whether [majority approval](#majority) or [supermajority approval](#supermajority) is required
+3.  the voting standard required
 
 4.  the date of the [deadline](#deadline)
 
 ### Casting Votes
 
-Contributors may vote by replying to a message soliciting votes using the same communication system.  Messages like "I approve.", "I vote in favor.", and "Aye" indicate a vote in favor.  Messages like "I oppose.", "I vote against.", and "Nay" indicate a vote against.
+Contributors may vote by replying to a message soliciting votes using the same communication system.  Messages like "I approve.", "I vote in favor.", and "Aye" count as votes in favor.  Messages like "I oppose.", "I vote against.", and "Nay" count as votes against.
 
 ### Tallying Votes
 
-To tally votes, the contributor who solicited votes must ensure that each vote message is [circulated](#circulating-messages).  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor [circulates](#circulating-messages) their vote themself, the contributor soliciting votes does not have to [circulate](#circulating-messages) it again.
+To tally votes, the contributor who solicited votes must ensure that each vote message is [circulated](#circulating-messages).  If the communication system enables forwarding messages verbatim, such as by forwarding e-mail, the contributor must forward vote messages verbatim.  If a voting contributor [circulates](#circulating-messages) their vote themself, the contributor soliciting votes need not [circulate](#circulating-messages) it again.
 
 ### Reporting Results
 
@@ -154,7 +164,7 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 ### Equal Pay
 
-Each contributor is entitled to receive an equal share of license fees for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, and must allow payment to any successor contributor who secures [majority approval](#majority).
+Each contributor is entitled to receive an equal share of license fees, license royalties, and other license-based payments for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, or to any successor contributor who secures [majority approval](#majority) to take their place.
 
 ### Distributing Payments
 
