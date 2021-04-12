@@ -1,8 +1,8 @@
 # Cross License Collaborative Agreement
 
-Development Draft
-
-<https://github.com/xlcollaborative/xlc-agreement>
+Version 1.0.0-pre.7
+ 
+<https://xlcollaborative.com/agreement/1.0.0-pre.7>
 
 ## Purpose
 
