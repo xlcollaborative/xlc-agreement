@@ -211,3 +211,7 @@ Any contributor may change these terms by securing [supermajority approval](#sup
 ## No Liability
 
 ***As far as the law allows, the project comes as is, without any warranty or condition, and no contributor will be liable to any other contributor for any damages related to the use or quality of the project, under any kind of legal claim.***
+
+## Independence
+
+These terms establish relationships between contributors based entirely on licenses for contributions of copyrights or patents to the project.  They do not commit contributors to do any business for profit, and are not intended to create or document any partnership, joint venture, unincorporated association, or other legal entity or legally recognized organization.
