@@ -6,7 +6,7 @@ Development Draft
 
 ## Purpose
 
-These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about licensing their project as a whole.
+These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about licensing their project as a whole.  The collaborative this agreement governs isn't like a company, where people own shares and carry on a business together.  It's more like a music or an art project, where creators agree to split royalties, as a collective, without anyone in particular in charge.
 
 ## Acceptance
 
