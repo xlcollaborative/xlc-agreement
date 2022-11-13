@@ -10,7 +10,7 @@ These terms let contributors working together on a project covered by copyrights
 
 ## Structure
 
-Legally, the collaborative works by having each contributor license their work in the project.  Some licenses, called cross-licenses, go to fellow contributors.  Other licenses, called sublicenses, go to people outside the collaborative.  Contributors share decisions about how to license outsiders democratically and share any proceeds from paid licenses equally.
+Legally, the collaborative works by having each contributor license their contributions to the project.  Some licenses, called cross-licenses, go to their fellow contributors.  Other licenses, called sublicenses, go to people outside the collaborative.  Contributors share decisions about how to license outsiders democratically.  They share any proceeds from paid licensing equally.
 
 ## Acceptance
 
