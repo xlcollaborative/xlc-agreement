@@ -10,11 +10,11 @@ These terms let contributors working together on a project covered by copyrights
 
 ## Structure
 
-Legally, the collaborative works by having each contributor license their contributions to the project.  Some licenses, called cross-licenses, go to their fellow contributors.  Other licenses, called sublicenses, go to people outside the collaborative.  Contributors share decisions about how to license outsiders democratically.  They share any proceeds from paid licensing equally.
+Legally, the collaborative works by having each contributor license their contributions to the project.  Some licenses, called [inside licenses](#inside-licenses), go to their fellow contributors.  Other licenses, called [outside licenses](#outside-licenses), go to people outside the collaborative.  Contributors share decisions about how to license outsiders democratically.  They share any proceeds from paid licensing equally.
 
 ## Acceptance
 
-In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross licenses they give and receive under that agreement.
+In order to join the collaborative, you must apply to become a contributor, be accepted, and agree to these terms.
 
 ## Contributors
 
@@ -40,49 +40,47 @@ For a candidate to become a contributor, an existing contributor must follow eac
 
 2.  secure [majority approval](#majority) in favor of their application
 
-3.  provide the candidate complete copies of all sublicenses still in effect
+3.  provide the candidate complete copies of all outside licenses still in effect
 
-4.  receive and [circulate](#circulating-messages) a message from the candidate confirming receipt of, and approving, all sublicenses still in effect
+4.  receive and [circulate](#circulating-messages) a message from the candidate confirming receipt of, and approving, all outside licenses still in effect
 
 5.  [circulate](#circulating-messages) a current list of all contributor [addresses](#addresses) and [payment instructions](#payment-instructions), including the new contributor's
 
 ### Resignation
 
-Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all cross licenses to that contributor end, but their cross licenses to other contributors, as well as any sublicenses they have given, continue.
+Any contributor may resign at any time by [circulating](#circulating-messages) a message of resignation.  When a contributor resigns, all inside licenses to that contributor end, but their inside licenses to other contributors, as well as any outside licenses they have given, continue.
 
-## Cross Licenses
+## Inside Licenses
 
 ### Copyright
 
-Each contributor gives a cross license covering all copyrights in their contributions to the project to each other contributor.
+Each contributor cross-licenses all copyrights in their contributions to the project to each other contributor.
 
 ### Patent
 
-Each contributor gives a cross license for the project covering any patent claims they can license or become able to license to each other contributor.
+Each contributor cross-licenses any patent claims they can license or become able to license that cover the project to each other contributor.
 
 ### Scope
 
-Each cross license under these terms covers all contributors, past, present, and future, and all contributions submitted to the project, past, present, and future.
+Each inside license under these terms covers all contributors, past, present, and future, and all contributions submitted to the project, past, present, and future.
 
 ### Rights
 
-Cross licenses under these terms do not give contributors themselves any special permission for the project, only permission to give sublicenses to others.
+Inside licenses under these terms do not give contributors themselves any special permission to use, share, or otherwise work with the project.  They only serve as a legal vehicle for giving outside licenses, covered next.
 
-### Sublicensing
+### Outside Licenses
 
-Any contributor may give a sublicense within thirty calendar days of securing [majority approval](#majority).  When [soliciting votes](#soliciting-votes) for a sublicense, a contributor must [circulate](#circulating-messages):
+Any contributor who [solicits votes](#soliciting-votes) and secures [majority approval](#majority) can license the project to anyone else.  When [soliciting votes](#soliciting-votes) for an outside license, they must:
 
-1.  identification of the contributor proposing to give the sublicense
+1.  identify themself
 
-2.  an exact copy of all the proposed sublicense terms
+2.  identify who will get the license, which could be specific people or organizations, categories of people or organizations, or the public as a whole
 
-3.  identification of the recipient or recipients of the sublicense
+3.  share all the terms of the license they want to give
 
-4.  a description of any relationship between those who will receive or benefit from the sublicense and the contributor proposing to give the sublicense
+4.  disclose any relationship they have with those who will get the license or otherwise benefit from it
 
-5.  an exact copy of all the terms of any agreement that has, will, or could compensate the contributor proposing to give the sublicense for proposing or securing approval for the sublicense
-
-Contributors may give sublicenses to specific recipients, categories of recipients, or the public as a whole.  Sublicenses may allow sublicensing in turn.  Sublicenses must apply from the time the sublicense is given, or from a time stated in the terms, not retroactively.
+5.  disclose the terms of any arrangement under which they have, will, or could get compensated for proposing or securing approval for the license
 
 ## Communications
 
@@ -96,7 +94,7 @@ To circulate a message under these terms, a contributor must send the message in
 
 ### Circulating Notices
 
-Any contributor who receives a notice under the terms of a sublicense must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
+Any contributor who receives a notice under the terms of an outside license must [circulate](#circulating-messages) that notice, [retrying](#retrying) as necessary.
 
 ### Addresses
 
@@ -168,11 +166,11 @@ To report a result, the contributor who solicited votes must [circulate](#circul
 
 ### Equal Pay
 
-Each contributor is entitled to receive an equal share of license fees, license royalties, and other license-based payments for the project.  Any sublicense that entitles any contributor to payment must require payment to the contributor who gave the sublicense to start, or to any successor contributor who secures [majority approval](#majority) to take their place.
+Each contributor is entitled to receive an equal share of license fees, license royalties, and other license-based payments for the project.  Any outside license that entitles any contributor to payment must require payment to the contributor who gave the outside license to start, or to any successor contributor who secures [majority approval](#majority) to take their place.
 
 ### Distributing Payments
 
-Any contributor who receives payment under a sublicense must pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to the other contributors' [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
+Any contributor who receives payment under an outside license must pay other contributors their [equal shares](#equal-pay) of funds received within fourteen calendar days, according to the other contributors' [payment instructions](#payment-instructions), [retrying](#retry) as necessary.
 
 ### Payment Processing Fees
 
@@ -182,7 +180,7 @@ If a contributor's [payment instructions](#payment-instructions) require the dis
 
 If a contributor does not respond to a payment of their share, the next step depends on the amount of their share.
 
-If the amount is ten percent or less of the payment under the sublicense being distributed, or the payment processing fees would be fifty percent or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
+If the amount is ten percent or less of the payment under the outside license being distributed, or the payment processing fees would be fifty percent or more of the amount to be paid, then the distributing contributor may keep the amount for themself.
 
 Otherwise, the distributing contributor must try to pay themself and other contributors, but not the contributor that is not responding, equal shares of the amount, according to their [payment instructions](#payment-instructions).  If those payments fail, the distributing contributor does not have to [retry](#retry) them, but can keep the amounts for themself.
 
@@ -206,7 +204,7 @@ When a [communication](#communications) or [payment](#payments) system fails to 
 
 ## Broken Rules
 
-If any contributor unintentionally breaks a rule of these terms at the expense of another contributor, and the contributor who was wronged [circulates](#circulating-messages) a message about the breach, other contributors can keep their cross licenses from the contributor who was wronged if any one or more of them makes the situation right within fourteen calendar days.  If the contributor did not get an [equal vote](#equal-vote), contributors must retake the vote.  If the contributor did not get [equal pay](#equal-pay), contributors must pay what was owed, and if the payment is thirty days or more late, interest at the base rate for the national bank of the country where the contributor lives, compounded monthly.  If the contributor did not get [equal information](#equal-information), contributors must [circulate](#cirulating-messages) the message again, and if any vote was taken between when the message was not sent and when the contributor finally received it, contributors must retake that vote.
+If any contributor unintentionally breaks a rule of these terms at the expense of another contributor, and the contributor who was wronged [circulates](#circulating-messages) a message about the breach, other contributors can keep their inside licenses from the contributor who was wronged if any one or more of them makes the situation right within fourteen calendar days.  If the contributor did not get an [equal vote](#equal-vote), contributors must retake the vote.  If the contributor did not get [equal pay](#equal-pay), contributors must pay what was owed, and if the payment is thirty days or more late, interest at the base rate for the national bank of the country where the contributor lives, compounded monthly.  If the contributor did not get [equal information](#equal-information), contributors must [circulate](#cirulating-messages) the message again, and if any vote was taken between when the message was not sent and when the contributor finally received it, contributors must retake that vote.
 
 ## Changes
 
