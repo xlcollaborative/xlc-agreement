@@ -8,6 +8,10 @@ Development Draft
 
 These terms enable contributors working together on a project covered by copyrights or patents to make collective decisions about licensing their project as a whole.  The collaborative this agreement governs isn't like a company, where people own shares and carry on a business together.  It's more like a music or an art project, where creators agree to split royalties, as a collective, without anyone in particular in charge.
 
+## Structure
+
+Legally, the collaborative works by having each contributor license their work in the project.  Some licenses, called cross-licenses, go to fellow contributors.  Other licenses, called sublicenses, go to people outside the collaborative.  Contributors share decisions about how to license outsiders democratically and share any proceeds from paid licenses equally.
+
 ## Acceptance
 
 In order to get any license under these terms, you must apply to become a contributor, be accepted, and agree to these terms.  These terms are both strict obligations under an agreement among all contributors and conditions to all the cross licenses they give and receive under that agreement.
